@@ -1,0 +1,31 @@
+ body{
+     
+     background-image: url("https://images.unsplash.com/photo-1513151233558-d860c5398176?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZnVuJTIwYmFja2dyb3VuZHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80");;
+ }
+
+
+h1{
+    color:gold;
+    
+}
+
+p{
+    font-size: 35px;
+    color:orange;
+}
+
+h2{
+    font-size: 32px;
+    color:goldenrod;
+    
+}
+
+h3{
+    font-size: 32px;     
+    color: firebrick;
+}
+
+
+
+
+
